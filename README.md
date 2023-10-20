@@ -13,8 +13,8 @@ This is a text mining project that I have undertaken with the objective of analy
 - Pythai NLP
 
 # Step
-1.Access the data
-2.Clean the data
+1. Access the data
+2. Clean the data
   - Remove Emoji
   - Remove special Symbol
   - Remove the backspace etc.
