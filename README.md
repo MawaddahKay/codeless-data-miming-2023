@@ -15,9 +15,9 @@ This is a text mining project that I have undertaken with the objective of analy
 # Step
 1. Access the data
 2. Clean the data
-  - Remove Emoji
-  - Remove special Symbol
-  - Remove the backspace etc.
+    - Remove Emoji
+    - Remove special Symbol
+    - Remove the backspace etc.
 3. Processing
    - Tokenized the data and create list and Dictionary
    - Normolized
@@ -28,10 +28,10 @@ This is a text mining project that I have undertaken with the objective of analy
    - Part-of-speech tagging
    - Eloratory Data Analysis(EDA)
      - Create a Word Cloud 
-   - TF-IDF  
-4.Model
+   - TF-IDF
+4. Model
   - Latent Dirichlet Allocation (LDA) Model
 
 # Summary
-After processing the data, we can identify the words that are most frequently used in sales posts about perfumes, such as 'กลิ่น', 'น้ำหอม', 'กลิ่นหอม', 'หอม', 'ดอกไม้', 'ดอกมะลิ', and 'ผู้หญิง'. If you want to sell that product, you can use these keywords to name your Facebook page because these words are frequently searched when people are looking for information about perfume.
+After processing the data, we can identify the words that are most frequently used in sales posts about perfumes, such as 'กลิ่น', 'น้ำหอม', 'กลิ่นหอม', 'หอม', 'ดอกไม้', 'ดอกมะลิ', 'ผู้หญิง' and 'ของแท้'. If you want to sell that product, you can use these keywords to name your Facebook page because these words are frequently searched when people are looking for information about perfume.
   
