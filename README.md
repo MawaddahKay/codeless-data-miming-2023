@@ -1,4 +1,4 @@
-# Codeless-data-miming-2023
+# Codeless-data-mining-2023
 Data mining 2023
 
 # Overview
